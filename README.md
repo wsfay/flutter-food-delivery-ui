@@ -1,3 +1,14 @@
+# Screenshots (small screen)
+
+![small devices](/screenshots/small.gif)  
+
+
+# Screenshots (wide screen)
+
+![wide screen](/screenshots/large.gif)   
+
+
+
 # flutter_food_delivery
 
 A new Flutter project.
